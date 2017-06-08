@@ -1,0 +1,69 @@
+
+1. Simple
+	- Java is simple as it contains lots of APIs(Application Programming Interfaces)
+		or libraries
+
+	eg:
+		Arrays.sort(n);
+
+2. Object Oriented
+	- Java is object oriented as it supports all the OO features
+	  like objects,classes,abstraction,encapsulation,inheritance
+	  and polymorphism
+
+3. Robust
+	- Robust means Strong
+	- In Java we can develop robust applications using Exception Handling
+	  which avoids abnormal termination of program
+
+4. Platform Independent
+	- Refer diagram Platform Independent.png
+
+
+5. Interpreted
+	- java command is an interpreter
+	- interpreter checks/executes the byte code line by line and if
+	  any line contains error, the program will be terminated
+	- javac is a compiler which converts source code into bytecode at a time
+
+6. Portable
+	- Java is portable as the size of all data types is same on all platforms (OS)
+
+7. Secure
+	- A pointer is a variable which contains the address of another variable
+		C/C++
+		-----
+		int n=10;
+		int *p = &n;//returns the address of n
+
+	- Java is secure as Java does not support pointers as pointers violate secuity
+
+8. Multithreaded
+	- A thread is a light weight process under execution within a process
+	- Multithreading is used to increase the performance of application
+
+9. Dynamic
+	- Memory allocation for arrays,strings, objects is done during runtime (dynamic)
+	- Java is automatic garbage collection
+
+10.Distributed
+	Refer diagram Distributed.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
